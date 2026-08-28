@@ -5,15 +5,25 @@ To design and develop UML diagrams for an ATM and Banking System to represent it
 
 # SRS (Procedure):
 1.Identify the main requirements and functionalities of the ATM and Banking System.
+
 2.Identify the actors involved, such as Customer, Bank Employee, and ATM System.
+
 3.Identify the major use cases, such as Insert Card, Enter PIN, Check Balance, Withdraw Cash, Deposit Cash, Transfer Money, and Change PIN.
+
 4.Design the Use Case Diagram to represent the interaction between actors and the system.
+
 5.Design the Class Diagram to represent the classes, attributes, methods, and relationships.
+
 6.Design the Sequence Diagram to show the sequence of interactions during an ATM transaction.
+
 7.Design the Communication Diagram to represent communication between system objects.
+
 8.Design the Activity Diagram to represent the workflow of an ATM transaction.
+
 9.Design the Package Diagram to organize related classes and components into packages.
+
 10.Verify the diagrams for proper relationships, interactions, and consistency.
+
 
 # DIAGRAMS:
 USE CASE DIAGRAM:
